@@ -2,9 +2,10 @@
 I am Valentin Bychinsky, a 20-year-old Junior Backend Developer currently living in Poznan, Poland. I graduated from the Belarusian State University of Informatics and Radioelectronics, where I gained extensive knowledge and skills in the field of technology.<br><br>My passion for programming led me to specialize in Python, and I have been able to apply my skills to develop server-side applications that are both efficient and reliable. I am always looking for opportunities to improve my skills and stay up-to-date with the latest industry trends and technologies.
 
 
-## 🌐 Socials:
+## 🌐 Socials:https://join.skype.com/invite/JzLKyjF8UNKb
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vffv2000) [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?logo=notion&logoColor=white)](https://vffv2000.github.io/CV/)[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vffv2000#6942) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentin_vffv2000)
+ [![Telegram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white))](https://web.telegram.org/k/#@vffv2000)
 
 
 # 💻 Tech Stack:
