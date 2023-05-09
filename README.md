@@ -3,7 +3,8 @@ I am Valentin Bychinsky, a 20-year-old Junior Backend Developer currently living
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vffv2000#6942) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentin_vffv2000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vffv2000) [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?logo=notion&logoColor=white)](https://vffv2000.github.io/CV/)
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vffv2000) [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?logo=notion&logoColor=white)](https://vffv2000.github.io/CV/)[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vffv2000#6942) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentin_vffv2000)
 
 
 # 💻 Tech Stack:
