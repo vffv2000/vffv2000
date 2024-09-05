@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Valentin Bychinsky, a 21-year-old Backend Developer currently living Poland. I graduated from the Belarusian State University of Informatics and Radioelectronics, where I gained extensive knowledge and skills in the field of technology.<br><br>My passion for programming led me to specialize in Python, and I have been able to apply my skills to develop server-side applications that are both efficient and reliable. I am always looking for opportunities to improve my skills and stay up-to-date with the latest industry trends and technologies.
+I am Valentin, Backend Developer currently living Poland. I graduated from the Belarusian State University of Informatics and Radioelectronics, where I gained extensive knowledge and skills in the field of technology.<br><br>My passion for programming led me to specialize in Python, and I have been able to apply my skills to develop server-side applications that are both efficient and reliable. I am always looking for opportunities to improve my skills and stay up-to-date with the latest industry trends and technologies.
 
 
 ## 🌐 Socials:
