@@ -5,11 +5,8 @@ I am Valentin, Backend Developer currently living Poland. I graduated from the B
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vffv2000)
-[![CV](https://img.shields.io/badge/Resume-%23000000.svg?logo=notion&logoColor=white)](https://vffv2000.github.io/CV/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vffv2000#6942)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentin_vffv2000)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://web.telegram.org/k/#@vffv2000)
-[![Skype](https://img.shields.io/badge/Skype-00AFF0?logo=Skype&logoColor=white)](skype:live:.cid.9259f4f2c4764685?chat)
+
 
 
 
